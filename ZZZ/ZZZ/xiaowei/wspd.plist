@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>北京卫视</key>
+    <string>udp://239.2.2.58:10058</string>
+    <key>东方卫视</key>
+    <string>udp://239.2.2.18:10018</string>
+    <key>江苏卫视</key>
+    <string>udp://239.2.2.49:10049</string>
+    <key>浙江卫视</key>
+    <string>udp://239.2.6.49:10049</string>
+    <key>广东卫视</key>
+    <string>udp://239.2.2.34:10034</string>
+    <key>广西卫视</key>
+    <string>udp://239.2.2.33:10033</string>
+    <key>江西卫视</key>
+    <string>udp://239.2.6.17:10017</string>
+    <key>云南卫视</key>
+    <string>udp://239.2.2.35:10035</string>
+    <key>宁夏卫视</key>
+    <string>udp://239.2.6.1:10001</string>
+    <key>辽宁卫视</key>
+    <string>udp://239.2.2.41:10041</string>
+    <key>河北卫视</key>
+    <string>udp://239.2.6.57:10057</string>
+    <key>安徽卫视</key>
+    <string>udp://239.2.6.33:10033</string>
+    <key>陕西卫视</key>
+    <string>udp://239.2.6.9:10009</string>
+    <key>四川卫视</key>
+    <string>udp://239.2.6.26:10026</string>
+    <key>深圳卫视</key>
+    <string>udp://239.2.3.10:10010</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	
+	<key>央视频道</key>
+	<string>yspd.plist</string>
+	<key>湖南频道</key>
+    <string>hnpd.plist</string>
+	<key>动漫频道</key>
+	<string>dmpd.plist</string>
+	<key>卫视频道</key>
+	<string>wspd.plist</string>
+	<key>其它频道</key>
+	<string>qtpd.plist</string>
+	<key>高清频道</key>
+    <string>gqpd.plist</string>
+    
+</dict>
+</plist>

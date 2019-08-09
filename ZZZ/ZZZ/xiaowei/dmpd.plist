@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>炫动卡通</key>
+    <string>udp://239.2.2.17:10017</string>
+    <key>优漫卡通</key>
+    <string>udp://239.2.2.50:10050</string>
+    <key>卡酷动画</key>
+    <string>udp://239.2.2.57:10057</string>
+    <key>嘉佳卡通</key>
+    <string>udp://239.2.3.12:10012</string>
+</dict>
+</plist>

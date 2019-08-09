@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>中央综合</key>
+    <string>udp://239.2.4.7:10001</string>
+    <key>中央财经</key>
+    <string>udp://239.2.2.1:10001</string>
+    <key>中央综艺</key>
+    <string>udp://239.2.4.1:10001</string>
+    <key>中央国际</key>
+    <string>udp://239.2.3.33:10033</string>
+    <key>中央体育</key>
+    <string>udp://239.2.4.2:10001</string>
+    <key>中央电影</key>
+    <string>udp://239.2.4.3:10001</string>
+    <key>中央军事</key>
+    <string>udp://239.2.2.2:10002</string>
+    <key>中央电视剧</key>
+    <string>udp://239.2.4.4:10001</string>
+    <key>中央纪录</key>
+    <string>udp://239.2.4.8:10001</string>
+    <key>中央科教</key>
+    <string>udp://239.2.2.3:10003</string>
+    <key>中央戏曲</key>
+    <string>udp://239.2.2.4:10004</string>
+    <key>中央社会</key>
+    <string>udp://239.2.2.5:10005</string>
+    <key>中央新闻</key>
+    <string>udp://239.2.2.26:10026</string>
+    <key>中央少儿</key>
+    <string>udp://239.2.2.25:10025</string>
+    <key>中央音乐</key>
+    <string>udp://239.2.2.6:10006</string>
+    <key>中央英语</key>
+    <string>udp://239.2.3.34:10034</string>
+</dict>
+</plist>

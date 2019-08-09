@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>湖南卫视</key>
+    <string>udp://239.2.2.9:10009</string>
+    <key>湖南经视</key>
+    <string>udp://239.2.4.5:10001</string>
+    <key>湖南都市</key>
+    <string>udp://239.2.5.1:10001</string>
+    <key>湖南公共</key>
+    <string>udp://239.2.5.4:10001</string>
+    <key>湖南娱乐</key>
+    <string>udp://239.2.5.5:10001</string>
+    <key>湖南电视剧</key>
+    <string>udp://239.2.5.6:10001</string>
+    <key>潇湘电影</key>
+    <string>udp://239.2.5.2:10001</string>
+    <key>长沙政法</key>
+    <string>udp://239.2.5.3:10001</string>
+    <key>金鹰卡通</key>
+    <string>udp://239.2.2.10:10010</string>	
+</dict>
+</plist>

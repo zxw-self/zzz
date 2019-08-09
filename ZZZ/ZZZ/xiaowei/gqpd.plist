@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	
+    <key>中文国际HD</key>
+    <string>udp://239.2.3.25:10025</string>
+    <key>凤凰中文HD</key>
+    <string>udp://239.2.3.57:10057</string>
+    <key>凤凰资讯HD</key>
+    <string>udp://239.2.3.58:10058</string>
+    <key>凤凰香港HD</key>
+    <string>udp://239.2.3.59:10059</string>
+    
+</dict>
+</plist>
